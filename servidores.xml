@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servidores version="1.0">
+    <servidor id="DK">
+        <baseDatos>buroDeCredito</baseDatos>
+        <contrasenna>buro</contrasenna>
+        <ip>10.19.151.46</ip>
+        <nombre>Sureste</nombre>
+        <puerto>1433</puerto>
+        <servidor>MSSQL</servidor>
+        <usuario>buro</usuario>
+    </servidor>
+</servidores>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datosGenerales version="1.0">
+    <datos id="DK">
+        <banxico>9999999</banxico>
+        <claveUsuario>2770</claveUsuario>
+        <claveUsuarioAnterior>0000</claveUsuarioAnterior>
+        <formato>1</formato>
+        <frecuenciaPagos>1</frecuenciaPagos>
+        <identificadorSegmento>BNCPM</identificadorSegmento>
+        <moneda>001</moneda>
+        <nacionalidad>MX</nacionalidad>
+        <nombreOtorgante>CFEDIVSONSURESTE</nombreOtorgante>
+        <numeroPagos>0</numeroPagos>
+        <pais>MX</pais>
+        <plazo>00000</plazo>
+        <tipoCredito>6280</tipoCredito>
+        <tipoUsuario>012</tipoUsuario>
+        <version>05</version>
+    </datos>
+</datosGenerales>
