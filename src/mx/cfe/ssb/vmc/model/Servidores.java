@@ -7,7 +7,6 @@ import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 
 /**
- *
  * @author Angel Adonay Basurto Nieto
  * @version 1.0
  * @date 08/02/2018
@@ -35,9 +34,7 @@ public class Servidores {
     public List<Servidor> getServidor() {
         return servidor;
     }
-
     public void setServidor(List<Servidor> servidor) {
         this.servidor = servidor;
     }
-    
 }
